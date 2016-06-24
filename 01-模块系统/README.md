@@ -99,7 +99,7 @@ define("mymodule", ["dep1", "dep2"], function(d1, d2) {
 * [require.js](http://requirejs.org/) - 客户端
 * [curl](https://github.com/cujojs/curl) - 客户端
 
-了解更多 [CommonJS]() and [AMD]().
+了解更多 [CommonJS](https://github.com/liximomo/webpack-guide/blob/master/CommonJS/README.md) and [AMD](https://github.com/liximomo/webpack-guide/blob/master/AMD/README.md).
 
 ## ES6 模块
 
@@ -160,7 +160,7 @@ module "localModule" {}
 
 注意: 这个方式是来自 [Google's GWT](https://developers.google.com/web-toolkit/doc/latest/DevGuideCodeSplitting). 
 
-了解 [Code Splitting]().
+了解 [Code Splitting](https://github.com/liximomo/webpack-guide/blob/master/Code%20Splitting/README.md).
 
 ---
 
@@ -195,7 +195,7 @@ require("./template.jade");
 require("./image.png");
 ```
 
-了解 [Using loaders]() and [Loaders]() .
+了解 [Using loaders](https://github.com/liximomo/webpack-guide/blob/master/Using%20loaders/README.md) and [Loaders](https://github.com/liximomo/webpack-guide/blob/master/Loaders/README.md) .
 
 ---
 

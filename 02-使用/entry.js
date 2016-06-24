@@ -1,0 +1,1 @@
+document.getElementById('foo').innerHTML = 'Hello webpack!' + '<br />' + require('./a.js');
