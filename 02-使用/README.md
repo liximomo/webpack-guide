@@ -4,7 +4,7 @@
   
 webpack 的机制很简单，通过指定一个入口文件，从入口文件进行静态依赖分析，将所有依赖打包到一起，产生一个最终的输出文件。
 
-真正让 webpack 变得无比强大的原因，是它的 [Loaders](https://github.com/liximomo/webpack-guide/blob/master/Loaders/README.md) 和 [Code Splitting](https://github.com/liximomo/webpack-guide/blob/master/Code%Splitting/README.md)机制。
+真正让 webpack 变得无比强大的原因，是它的 [Loaders](https://github.com/liximomo/webpack-guide/blob/master/Loaders/README.md) 和 [Code Splitting](https://github.com/liximomo/webpack-guide/blob/master/Code%20Splitting/README.md)机制。
 
 webpack 默认使用 [CommonJS](https://github.com/liximomo/webpack-guide/blob/master/CommonJS/README.md) 模块语法，这使得 webpack 可以直接使用 npm 上数十万的库。
 
